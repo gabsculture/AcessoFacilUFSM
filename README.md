@@ -15,3 +15,12 @@ Este projeto tem como objetivo centralizar informações sobre a acessibilidade 
 
 ## Objetivo 
 Desenvolver uma solução prática para mapeamento de acessibilidade, servindo tanto como projeto acadêmico para a disciplina de Computadores e Sociedade quanto como base para aplicações reais.
+
+## Entidades
+1. Usuario;
+2. Conta_Auth;
+3. Ponto_Acessibilidade;
+4. Tipo_Recurso;
+5. Recurso_Ponto;
+6. Avaliacao;
+7. Favorito
